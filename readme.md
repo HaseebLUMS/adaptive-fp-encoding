@@ -37,5 +37,6 @@ The encoder splits the 23-bit mantissa into:
 No pip package yet — just clone the repo:
 
 ```bash
-git clone https://github.com/your-username/float32-encoding.git
-cd float32-encoding
+git clone <this repo>
+cd <this repo>
+python3 main.py
