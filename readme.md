@@ -42,3 +42,13 @@ No pip package yet — just clone the repo:
 git clone <this repo>
 cd <this repo>
 python3 main.py
+```
+
+<div style="display: flex; gap: 20px;">
+  <a href="./assets/naive_tensorpacking.drawio.pdf">
+    <img src="./assets/naive_tensorpacking.drawio.png" alt="Naive" width="400"/>
+  </a>
+  <a href="./assets/ours_tensorpacking.drawio.pdf">
+    <img src="./assets/ours_tensorpacking.drawio.png" alt="xFP" width="400"/>
+  </a>
+</div>
