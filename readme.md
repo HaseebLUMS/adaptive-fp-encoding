@@ -1,4 +1,6 @@
-# Float32 Bitstream Encoder
+[![Concept](./assets/fp_concept.drawio.png)](./assets/fp_concept.drawio.pdf)
+
+# Float32 Bitstream Encoder (xfp)
 
 A configurable encoder/decoder for `float32` tensors that enables compact storage and flexible lossy or lossless reconstruction. 
 
